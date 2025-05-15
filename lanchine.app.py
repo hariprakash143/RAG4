@@ -1,4 +1,3 @@
-# RAG4
 import streamlit as st
 import os
 import tempfile
